@@ -4,12 +4,11 @@
 
 # <div align = "center"> 🧰  Development Stacks 🧰 </div>
 <br>
-<div align = "center">
-Language
+<div align = "center"><div align = "center">
+Language <br>
 <img src="https://img.shields.io/badge/C++-0000CC?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Csharp-0000CC?style=flat-square&logo=csharp&logoColor=white"/>
 </div>
- 
 
 Game Engine
 <img src="https://img.shields.io/badge/Unity Engine-000000?style=flat-square&logo=unity&logoColor=white"/>
