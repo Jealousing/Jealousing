@@ -5,6 +5,8 @@
   
 <a href="https://www.youtube.com/c/%EC%A7%88%ED%88%AC" target="_blank"><img src="https://img.shields.io/badge/GamePlaying_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   
 <!--
 **Jealousing/Jealousing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
