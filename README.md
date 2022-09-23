@@ -1,6 +1,4 @@
 
-<a href="https://www.youtube.com/c/%EC%A7%88%ED%88%AC" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-
 <a href="https://www.youtube.com/c/%EC%A7%88%ED%88%AC" target="_blank"><img src="https://img.shields.io/badge/GamePlayingYoutube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
 <!--
