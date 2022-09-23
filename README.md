@@ -1,5 +1,8 @@
 
-<a href="https://www.youtube.com/c/%EC%A7%88%ED%88%AC" target="_blank"><img src="https://img.shields.io/badge/GamePlayingYoutube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+
+<a href="https://www.youtube.com/channel/UCt0ZnTLCoGqdj9U5uW6Yb-g" target="_blank"><img src="https://img.shields.io/badge/StudyDevelopment_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+
+<a href="https://www.youtube.com/c/%EC%A7%88%ED%88%AC" target="_blank"><img src="https://img.shields.io/badge/GamePlaying_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
 <!--
 **Jealousing/Jealousing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
