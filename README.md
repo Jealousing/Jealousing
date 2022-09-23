@@ -4,7 +4,6 @@
 <br><br>
 
 # <div align = "center"> 🧰  **Tech Stacks** 🧰 </div>
-<br>
 <div align = "center"><div align = "center">
 🌐Language <br>
 <img src="https://img.shields.io/badge/C++-0000CC?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -19,7 +18,6 @@
 <br>
  
 # <div align = "center"> 🎞️ **Youtube** 🎞️  </div>
-<br>
 <a href="https://www.youtube.com/channel/UCt0ZnTLCoGqdj9U5uW6Yb-g" target='_blank'><img src="https://img.shields.io/badge/Study_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/> <a href="https://www.youtube.com/c/%EC%A7%88%ED%88%AC" target='_blank'><img src="https://img.shields.io/badge/GamePlaying_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
 <br>
  
