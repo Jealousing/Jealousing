@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=160&section=header&text=Hello,%20Jealousing%20profile.&desc=I%20wanna%20be%20GameClientProgrammer&fontSize=65&fontAlignY=40&animation=fadein&descSize=30&descAlignY=70&rotate=0&stroke=FFFFFF)
 
-<br><br>
+<br>
 
 # <div align = "center"> 🧰  **Tech Stacks** 🧰 </div>
 <div align = "center"><div align = "center">
