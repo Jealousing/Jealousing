@@ -3,7 +3,6 @@
 <br><br>
 
 # <div align = "center"> 🧰  Development Stacks 🧰 </div>
-***
 <br>
 Language
 <img src="https://img.shields.io/badge/C++-0000CC?style=flat-square&logo=cplusplus&logoColor=white"/>
