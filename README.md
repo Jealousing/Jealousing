@@ -1,7 +1,7 @@
 ***
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=160&section=header&text=Hello,%20Jealousing%20profile.&desc=I%20wanna%20be%20GameClientProgrammer&fontSize=65&fontAlignY=40&animation=fadein&descSize=30&descAlignY=70&rotate=0&stroke=FFFFFF)
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello,%20Jealousing%20profile.&desc=I%20wanna%20be%20GameClientProgrammer&descSize=30&descAlignY=80&animation=blink&fontColor=000000&fontSize=65" />
+    </div>
 <br>
 
 # <div align = "center"> 🧰  **Tech Stacks** 🧰 </div>
@@ -23,6 +23,8 @@
  
 # <div align = "center"> 🎞️ **Youtube** 🎞️  </div>
 <a href="https://www.youtube.com/channel/UCt0ZnTLCoGqdj9U5uW6Yb-g" target='_blank'><img src="https://img.shields.io/badge/Study_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/> <a href="https://www.youtube.com/c/%EC%A7%88%ED%88%AC" target='_blank'><img src="https://img.shields.io/badge/GamePlaying_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
+<br>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jealous0324@gmail.com)](mailto:jealous0324@gmail.com)
  </div>
 <br><br><br>
  
