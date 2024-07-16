@@ -18,8 +18,9 @@
 </div>
 <br>
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jealous0324)](https://solved.ac/jealous0324/)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jealousing&layout=compact&theme=dark)
+# <div align = "center"> ** Data Statistics **️️  </div
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jealous0324)](https://solved.ac/jealous0324/)   
+[![Github](https://www.codenary.co.kr/widget/github/api?username=서동주)](https://www.codenary.co.kr/user-profile/detail/서동주?github_ride=true&utm_source=github)   
  
 # <div align = "center"> 🎞️ **Youtube** 🎞️  </div>
 <a href="https://www.youtube.com/channel/UCt0ZnTLCoGqdj9U5uW6Yb-g" target='_blank'><img src="https://img.shields.io/badge/Study_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/> <a href="https://www.youtube.com/c/%EC%A7%88%ED%88%AC" target='_blank'><img src="https://img.shields.io/badge/GamePlaying_Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
