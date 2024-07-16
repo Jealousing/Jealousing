@@ -18,8 +18,8 @@
 </div>
 <br>
 
-# <div align = "center"> ** Data Statistics **️️  </div
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jealous0324)](https://solved.ac/jealous0324/)   
+# <div align = "center"> **Data Statistics**️️ </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jealous0324)](https://solved.ac/jealous0324/)   
 [![Github](https://www.codenary.co.kr/widget/github/api?username=서동주)](https://www.codenary.co.kr/user-profile/detail/서동주?github_ride=true&utm_source=github)   
  
 # <div align = "center"> 🎞️ **Youtube** 🎞️  </div>
