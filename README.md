@@ -1,20 +1,20 @@
 ***
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello,%20Jealousing%20profile.&desc=I%20wanna%20be%20GameClientProgrammer&descSize=30&descAlignY=80&animation=blink&fontColor=000000&fontSize=65" />
-    </div>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello,%20Jealousing%20profile.&desc=I%20wanna%20be%20GameClientProgrammer&descSize=30&descAlignY=80&animation=blink&fontColor=auto&fontSize=65" />
+</div>
 <br>
 
 # <div align = "center"> 🧰  **Tech Stacks** 🧰 </div>
 <div align = "center"><div align = "center">
 🌐Languages <br>
-<img src="https://img.shields.io/badge/C++-0000CC?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Csharp-0000CC?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
 </div>
  
 <br>
 <div align = "center">
 🎮Game Engines <br>
-<img src="https://img.shields.io/badge/Unity Engine-000000?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity Engine-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
 </div>
 <br>
 
