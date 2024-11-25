@@ -1,6 +1,6 @@
 ***
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello,%20Jealousing%20profile.&desc=I%20wanna%20be%20GameClientProgrammer&descSize=30&descAlignY=80&animation=blink&fontColor=auto&fontSize=65" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello,%20Jealousing%20profile.&desc=I%20wanna%20be%20GameClientProgrammer&descSize=30&descAlignY=80&animation=blink&fontColor=000000&fontSize=65" />
 </div>
 <br>
 
@@ -14,7 +14,7 @@
 <br>
 <div align = "center">
 🎮Game Engines <br>
-<img src="https://img.shields.io/badge/Unity Engine-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity%20Engine-808080?style=flat-square&logo=unity&logoColor=white"/>
 </div>
 <br>
 
